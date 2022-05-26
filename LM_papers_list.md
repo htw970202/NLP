@@ -9,7 +9,7 @@
 
 |Method|Conf./Jour.|Year|Training Dataset|Evaluation Dataset|Mertic|Code|Paper|Summary|
 |---|---|---|---|---|---|---|---|---|
-|Long Context Question Answering via Supervised Contrastive Learning---|NAACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2112.08777.pdf)|[View]()|
+|Long Context Question Answering via Supervised Contrastive Learning---|NAACL|2022|---|---|---|[View](https://github.com/aviclu/long-context-qa-contrast)|[View](https://arxiv.org/pdf/2112.08777.pdf)|[View]()|
 |DREAM: Improving Situational QA by First Elaborating the Situation|NAACL|2022|---|---|---|[View](https://github.com/allenai/dream/blob/main/model/README_DREAM_model.md)|[View](https://arxiv.org/pdf/2112.08656.pdf)|[View]()|
 |QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization|NAACL|2022|---|---|---|[View](https://github.com/salesforce/QAFactEval)|[View](https://arxiv.org/pdf/2112.08542.pdf)|[View]()|
 |CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training|NAACL|2022|---|---|---|[View](https://github.com/facebookresearch/CCQA)|[View](https://arxiv.org/pdf/2110.07731.pdf)|[View]()|
