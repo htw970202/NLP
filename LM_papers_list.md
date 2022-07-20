@@ -29,7 +29,8 @@
 |Read before Generate! Faithful Long Form Question Answering with Machine Reading|ACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2203.00343.pdf)|[View]()|
 |Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework|ACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2110.08544.pdf)|[View]()|
 |BBQ: A Hand-Built Bias Benchmark for Question Answering|ACL|2022|---|---|---|[View](https://github.com/nyu-mll/BBQ)|[View](https://arxiv.org/pdf/2110.08193.pdf)|[View]()|
-|Dense Passage Retrieval for Open-Domain Question Answering|ACL|2022|---|---|---|[View](https://github.com/facebookresearch/DPR)|[View](https://arxiv.org/pdf/2004.04906.pdf)|[View]()|
+|Dense Passage Retrieval for Open-Domain Question Answering|ACL|2022|---|---|---|[View](https://github.com/facebookresearch/DPR)|[View](https://arxiv.org/pdf/2004.04906.pdf)|[View](https://github.com/htw970202/NLP/issues/11)|
+|C-MORE: Pretraining to Answer Open-Domain Questions by Consulting Millions of References|ACL|2022|---|---|---|[View](https://github.com/xiangyue9607/c-more)|[View](https://arxiv.org/pdf/2203.08928.pdf)|[View](https://github.com/htw970202/NLP/issues/12)|
 |Extending the Scope of Out-of-Domain: Examining QA models in multiple subdomains|ACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2204.04534.pdf)|[View]()|
 |Parameter-Efficient Abstractive Question Answering over Tables or Text|EMNLP|2020|---|---|---|[View](https://github.com/kolk/Pea-QA)|[View](https://arxiv.org/pdf/2204.03357.pdf)|[View]()|
 |UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering|NAACL|2022|---|---|---|[View](https://github.com/facebookresearch/UniK-QA)|[View](https://arxiv.org/pdf/2012.14610v3.pdf)|[View]()|
