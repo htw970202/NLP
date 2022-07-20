@@ -29,7 +29,12 @@
 |Read before Generate! Faithful Long Form Question Answering with Machine Reading|ACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2203.00343.pdf)|[View]()|
 |Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework|ACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2110.08544.pdf)|[View]()|
 |BBQ: A Hand-Built Bias Benchmark for Question Answering|ACL|2022|---|---|---|[View](https://github.com/nyu-mll/BBQ)|[View](https://arxiv.org/pdf/2110.08193.pdf)|[View]()|
+|Dense Passage Retrieval for Open-Domain Question Answering|ACL|2022|---|---|---|[View](https://github.com/facebookresearch/DPR)|[View](https://arxiv.org/pdf/2004.04906.pdf)|[View]()|
 |Extending the Scope of Out-of-Domain: Examining QA models in multiple subdomains|ACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2204.04534.pdf)|[View]()|
-|Parameter-Efficient Abstractive Question Answering over Tables or Text|ACL|2022|---|---|---|[View](https://github.com/kolk/Pea-QA)|[View](https://arxiv.org/pdf/2204.03357.pdf)|[View]()|
-
-
+|Parameter-Efficient Abstractive Question Answering over Tables or Text|EMNLP|2020|---|---|---|[View](https://github.com/kolk/Pea-QA)|[View](https://arxiv.org/pdf/2204.03357.pdf)|[View]()|
+|UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering|NAACL|2022|---|---|---|[View](https://github.com/facebookresearch/UniK-QA)|[View](https://arxiv.org/pdf/2012.14610v3.pdf)|[View]()|
+|Neural Retriever and Go Beyond: A Thesis Proposal|-|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2205.16005.pdf)|[View]()|
+|You Only Need One Model for Open-domain Question Answering|NAACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2112.07381.pdf)|[View]()|
+|KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering|ACL|2022|---|---|---|[View]()|[View](https://arxiv.org/pdf/2110.04330.pdf)|[View]()|
+|Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering|ACL|2021|---|---|---|[View](https://github.com/awslabs/durepa-hybrid-qa)|[View](https://arxiv.org/pdf/2108.02866.pdf)|[View]()|
+|Efficient Passage Retrieval with Hashing for Open-domain Question Answering|ACL|2021|---|---|---|[View](https://github.com/studio-ousia/bpr)|[View](https://arxiv.org/pdf/2106.00882.pdf)|[View]()|
